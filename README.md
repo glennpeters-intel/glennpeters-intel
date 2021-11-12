@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glennpeters-intel
 - 👀 I’m interested in cats, Go, photography.
 - 🌱 I’m currently learning about life, cats, Go, photography, a lot of technical things, etc.
-- 💞️ I’m looking to collaborate on ... ^H^H^H^H^H^H^H^H^H^H^H^H
+- 💞️ I’m looking to collaborate on Intel projects
 - 📫 How to reach me ... at Intel
 
 <!---
